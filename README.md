@@ -16,8 +16,5 @@ Short description of the project.
 - CRUD operations
 - API integration
 
-## How to run
-Instructions to run locally.
-
 ## Status
-In progress / Completed
+In progress 
